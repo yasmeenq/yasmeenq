@@ -39,8 +39,9 @@
 <p align="left">
 </p>
 
-<img width="1000" src="/sammorozov/sammorozov/raw/main/assets/github-snake.svg" alt="snake" style="max-width: 100%;">
-
+<p align="center" dir="auto">
+ <a target="_blank" rel="noopener noreferrer" href="/sammorozov/sammorozov/blob/main/assets/github-snake.svg"><img width="1000" src="/sammorozov/sammorozov/raw/main/assets/github-snake.svg" alt="snake" style="max-width: 100%;"></a>
+</p>
 
 - 📫 How to reach me **[yasmeen.qawasmy@gmail.com](yasmeen.qawasmy@gmail.com)**
 
