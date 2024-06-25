@@ -1,12 +1,5 @@
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Hi 👋, I'm Yasmeen Qawasmy</font></h1>
-<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/nasiullha-chaudhari/" target="_blank" rel="noreferrer">Nasi</a> is a passionate DevOps Engineer from India, working on Cloud and DevOps for 3+ years now. Feel free to reach out for any Freelance Projects.</font></h3>
-
-<!-- Schedule a 1-on-1 Call Section -->
-<h3 align="left"><font size="+2" face="Verdana">Schedule a 1-on-1 Call:</font></h3>
-<p align="left">
-  <a href="https://topmate.io/nasiullha_chaudhari" target="_blank" rel="noreferrer"> Book a Call with me! </a>
-</p>
 
 <!-- GIF -->
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
@@ -46,9 +39,9 @@
 <p align="left">
 </p>
 
-- 💬 Ask me about **DevOps**
-- 📫 How to reach me **[cloudchamp44@gmail.com](mailto:cloudchamp44@gmail.com)**
-- ⚡ Fun fact **I create YouTube videos**
+
+- 📫 How to reach me **[yasmeen.qawasmy@gmail.com](yasmeen.qawasmy@gmail.com)**
+
 
 
 
