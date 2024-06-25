@@ -39,9 +39,6 @@
 - 📫 How to reach me **[yasmeen.qawasmy@gmail.com](yasmeen.qawasmy@gmail.com)**
 
 
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
 
 
 
