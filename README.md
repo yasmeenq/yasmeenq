@@ -1,8 +1,12 @@
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Hello There 🐱‍👤</font></h1>
 
-<!-- GIF -->
-<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+
+<!-- github snake -->
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
 
 <!-- Languages and Tools Section -->
 <h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
@@ -26,9 +30,6 @@
 <p align="left"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="40" height="40"/> </p>
 
 
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
 
 
 - 📫 How to reach me **[yasmeen.qawasmy@gmail.com](yasmeen.qawasmy@gmail.com)**
