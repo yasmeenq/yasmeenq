@@ -26,6 +26,11 @@
 <p align="left"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="40" height="40"/> </p>
 
 
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
+
 - 📫 How to reach me **[yasmeen.qawasmy@gmail.com](yasmeen.qawasmy@gmail.com)**
 
 
