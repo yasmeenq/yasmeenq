@@ -1,6 +1,12 @@
+<!-- Header Section -->
+<h1 align="center">Hello There 🐱‍👤</h1>
+<p align="center">Welcome to my GitHub profile! I'm passionate about coding and building cool projects. Feel free to explore my repositories and connect with me!</p>
+
+<!-- GitHub Snake -->
 <p align="center">
   <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
+
 ---
 
 ### Profile Views:
