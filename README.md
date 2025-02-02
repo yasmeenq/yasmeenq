@@ -57,7 +57,9 @@ I'm a passionate developer with expertise in web development, database managemen
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=yasmeenq&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
+
 ---
+
 
 <!-- How to Reach Me Section -->
 <h2 align="left">📫 How to Reach Me</h2>
