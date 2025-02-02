@@ -12,7 +12,7 @@
 ### About Me:
 I'm a passionate developer with expertise in web development, database management, and project collaboration. I enjoy working with Python, JavaScript, React, Flask, Django, and more. I'm always eager to learn new technologies and solve real-world problems through code. Let's build something awesome together!
 
----
+
 
 
 ## Languages and Tools
