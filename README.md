@@ -7,12 +7,6 @@ I'm a passionate developer with expertise in web development, database managemen
 
 ---
 
-### Social Media: 📡
-Connect with me on Telegram, where I share insights, updates, and occasional tech musings.
-
-[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your-telegram-link)
-
----
 
 ## Languages and Tools
 
@@ -41,13 +35,6 @@ Connect with me on Telegram, where I share insights, updates, and occasional tec
 |-----|--------|--------|---------|------|---------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="55" height="55"/> |
 
----
-
-### Working On: 🚀
-- Learning **Go** and exploring its ecosystem.
-- Building full-stack web applications with **React** and **Node.js**.
-- Experimenting with **Docker** for containerization.
-- Solving problems on **LeetCode** and participating in coding challenges.
 
 ---
 
