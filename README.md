@@ -1,6 +1,15 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=your-username&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
+---
+
+### Profile Views:
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-username&style=for-the-badge&color=orange" alt="Profile Views"/>
+</div>
 
 ---
+
 
 ### About Me:
 I'm a passionate developer with expertise in web development, database management, and project collaboration. I enjoy working with Python, JavaScript, React, Flask, Django, and more. I'm always eager to learn new technologies and solve real-world problems through code. Let's build something awesome together!
@@ -40,27 +49,14 @@ I'm a passionate developer with expertise in web development, database managemen
 
 ### GitHub Stats:
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=yasmeenq&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmeenq&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 </p>
 
 ---
 
 ### Streak Stats:
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=your-username&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=yasmeenq&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 
----
-
-### Profile Views:
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&style=for-the-badge&color=orange" alt="Profile Views"/>
-</div>
-
----
-
-### GitHub Snake:
-<p align="center">
-  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
