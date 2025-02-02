@@ -9,13 +9,6 @@
 
 ---
 
-### Profile Views:
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yasmeenq&style=for-the-badge&color=orange" alt="Profile Views"/>
-</div>
-
----
-
 
 ### About Me:
 I'm a passionate developer with expertise in web development, database management, and project collaboration. I enjoy working with Python, JavaScript, React, Flask, Django, and more. I'm always eager to learn new technologies and solve real-world problems through code. Let's build something awesome together!
@@ -65,4 +58,21 @@ I'm a passionate developer with expertise in web development, database managemen
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=yasmeenq&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
+---
 
+<!-- How to Reach Me Section -->
+<h2 align="left">📫 How to Reach Me</h2>
+<p>
+  Let's connect and collaborate! You can reach me via:
+  <br>
+  - Email: yasmeen.qawasmy@gmail.com
+</p>
+
+---
+
+### Profile Views:
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yasmeenq&style=for-the-badge&color=orange" alt="Profile Views"/>
+</div>
+
+---
