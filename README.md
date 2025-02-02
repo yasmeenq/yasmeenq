@@ -72,11 +72,7 @@
 <p>
   Let's connect and collaborate! You can reach me via:
   <br>
-  - Email: [Your Email Address]
-  <br>
-  - LinkedIn: [Your LinkedIn Profile]
-  <br>
-  - Twitter: [Your Twitter Handle]
+  - Email: yasmeen.qawasmy@gmail.com
 </p>
 
 ---
