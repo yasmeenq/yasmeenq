@@ -69,11 +69,8 @@ I'm a passionate developer with expertise in web development, database managemen
   - Email: yasmeen.qawasmy@gmail.com
 </p>
 
----
 
-### Profile Views:
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=yasmeenq&style=for-the-badge&color=orange" alt="Profile Views"/>
 </div>
 
----
