@@ -15,7 +15,7 @@ I'm a passionate developer with expertise in web development, database managemen
 
 
 
-## 🧸 Languages and Tools
+## 💢 Languages and Tools
 
 ### Languages:
 | Python | JavaScript | TypeScript | C | SQL | Java | Node.js |
@@ -46,7 +46,7 @@ I'm a passionate developer with expertise in web development, database managemen
 
 
 
-## 🧸 Stats
+## 💢 Stats
 <p align="center">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmeenq&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 </p>
