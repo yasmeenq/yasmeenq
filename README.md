@@ -52,7 +52,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" alt="Git" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" title="GitHub" alt="GitHub" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" title="Postman" alt="Postman" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" width="55" height="55"/>
 </div>
 
 ### IDEs:
