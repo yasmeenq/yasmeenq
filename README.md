@@ -25,7 +25,7 @@ I'm a passionate developer with expertise in web development, database managemen
 ### Backend Development:
 | Flask | Django | Node.js | REST API |
 |-------|--------|---------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="55" height="55"/> | <img src="https://www.vectorlogo.zone/logos/apiaryio/apiaryio-icon.svg" title="REST API" alt="REST API" width="55" height="55"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="55" height="55"/> | <img src="https://cdn.worldvectorlogo.com/logos/rest-api.svg" title="REST API" alt="REST API" width="55" height="55"/> |
 
 ### Databases:
 | MySQL | MongoDB | SQLite |
