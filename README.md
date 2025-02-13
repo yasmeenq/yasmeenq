@@ -49,7 +49,6 @@ I'm a passionate developer with expertise in web development, database managemen
 <p>
   Let's connect and collaborate! You can reach me via:
   <br>
-  [Your contact information here]
 </p>
   - Email: yasmeen.qawasmy@gmail.com
 </p>
